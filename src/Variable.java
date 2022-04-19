@@ -1,4 +1,4 @@
-public class App {
+public class Variable {
     public static void main(String[] args) throws Exception {
         // Variables
         double pi = 3.14;
