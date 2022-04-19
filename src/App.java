@@ -17,5 +17,11 @@ public class App {
         boolean male = true;
         male = false;
         System.out.println(male);
+
+        // final keyword
+        final int x = 10;
+        System.out.println("My int: " + x);
+        // x = 20; cannot be changed
+        System.out.println("My int is constant: " + x);
     }
 }
